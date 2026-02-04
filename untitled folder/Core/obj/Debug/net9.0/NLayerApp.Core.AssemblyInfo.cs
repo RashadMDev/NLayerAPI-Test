@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NLayerApp.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe58ad11bf2816dda2d3ba3ab8108d2d4d464dc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("NLayerApp.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NLayerApp.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

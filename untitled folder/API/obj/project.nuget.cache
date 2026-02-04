@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b6eb3/iNYNE=",
+  "dgSpecHash": "7lIfIO0J3Rw=",
   "success": true,
-  "projectFilePath": "/Users/rashad/Desktop/untitled folder/API/NLayerApp.API.csproj",
+  "projectFilePath": "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/API/NLayerApp.API.csproj",
   "expectedPackageFiles": [
     "/Users/rashad/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/rashad/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

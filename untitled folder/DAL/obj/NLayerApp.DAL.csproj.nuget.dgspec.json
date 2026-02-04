@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rashad/Desktop/untitled folder/DAL/NLayerApp.DAL.csproj": {}
+    "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/DAL/NLayerApp.DAL.csproj": {}
   },
   "projects": {
-    "/Users/rashad/Desktop/untitled folder/Core/NLayerApp.Core.csproj": {
+    "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/Core/NLayerApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rashad/Desktop/untitled folder/Core/NLayerApp.Core.csproj",
+        "projectUniqueName": "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/Core/NLayerApp.Core.csproj",
         "projectName": "NLayerApp.Core",
-        "projectPath": "/Users/rashad/Desktop/untitled folder/Core/NLayerApp.Core.csproj",
+        "projectPath": "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/Core/NLayerApp.Core.csproj",
         "packagesPath": "/Users/rashad/.nuget/packages/",
-        "outputPath": "/Users/rashad/Desktop/untitled folder/Core/obj/",
+        "outputPath": "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rashad/.nuget/NuGet/NuGet.Config"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "/Users/rashad/Desktop/untitled folder/DAL/NLayerApp.DAL.csproj": {
+    "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/DAL/NLayerApp.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rashad/Desktop/untitled folder/DAL/NLayerApp.DAL.csproj",
+        "projectUniqueName": "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/DAL/NLayerApp.DAL.csproj",
         "projectName": "NLayerApp.DAL",
-        "projectPath": "/Users/rashad/Desktop/untitled folder/DAL/NLayerApp.DAL.csproj",
+        "projectPath": "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/DAL/NLayerApp.DAL.csproj",
         "packagesPath": "/Users/rashad/.nuget/packages/",
-        "outputPath": "/Users/rashad/Desktop/untitled folder/DAL/obj/",
+        "outputPath": "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/DAL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rashad/.nuget/NuGet/NuGet.Config"
@@ -87,8 +87,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/rashad/Desktop/untitled folder/Core/NLayerApp.Core.csproj": {
-                "projectPath": "/Users/rashad/Desktop/untitled folder/Core/NLayerApp.Core.csproj"
+              "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/Core/NLayerApp.Core.csproj": {
+                "projectPath": "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/Core/NLayerApp.Core.csproj"
               }
             }
           }
