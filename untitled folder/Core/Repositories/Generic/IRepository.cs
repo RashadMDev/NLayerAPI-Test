@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NLayerApp.Core.Entities;
-using NLayerApp.Core.Entities.Base;
+﻿using NLayerApp.Core.Entities.Base;
 
 namespace NLayerApp.Core.Repositories.Generic
 {
@@ -13,7 +7,8 @@ namespace NLayerApp.Core.Repositories.Generic
         Task<List<TEntity>> GetAllAsync();
         Task<TEntity> GetByIdAsync(int id);
         Task CreateAsync(TEntity entity);
-        void DeleteAsync(int id);
+        Task DeleteAsync(int id);
         void UpdateAsync(TEntity entity);
+        Task<int> SaveChangesAsync();
     }
 }

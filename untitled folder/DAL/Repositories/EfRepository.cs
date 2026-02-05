@@ -20,13 +20,16 @@ namespace NLayerApp.DAL.Repositories
         public async Task CreateAsync(TEntity entity)
         {
             await _db.AddAsync(entity);
-            await _context.SaveChangesAsync();
         }
 
-        public void DeleteAsync(int id)
+        public async Task DeleteAsync(int id)
         {
-            var entity = _db.FirstOrDefault(x => x.Id == id);
-            if (entity is not null)
+            var entity = await _db.FindAsync(id);
+            if (entity is null)
+            {
+                throw new Exception("Entity is not exist");
+            }
+            else
             {
                 _db.Remove(entity);
             }
@@ -42,6 +45,11 @@ namespace NLayerApp.DAL.Repositories
         {
             var entity = await _db.FirstOrDefaultAsync(x => x.Id == id);
             return entity;
+        }
+
+        public async Task<int> SaveChangesAsync()
+        {
+            return await _context.SaveChangesAsync();
         }
 
         public void UpdateAsync(TEntity entity)

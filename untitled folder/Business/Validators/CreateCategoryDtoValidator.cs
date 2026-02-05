@@ -2,7 +2,7 @@
 using FluentValidation;
 using NLayerApp.Core.DTOs.CategoryDTOs;
 
-namespace API.Validators
+namespace NLayerApp.Business.Validators
 {
       public class CreateCategoryDtoValidator : AbstractValidator<CreateCategoryDto>
       {

@@ -12,7 +12,7 @@ namespace NLayerApp.Core.Services
         Task<List<GetCategoryDto>> GetAllAsync();
         Task<GetCategoryDto?> GetByIdAsync(int id);
         Task CreateAsync(CreateCategoryDto dto);
-        void UpdateAsync(int id, UpdateCategoryDto dto);
-        void DeleteAsync(int id);
+        Task UpdateAsync(int id, UpdateCategoryDto dto);
+        Task DeleteAsync(int id);
     }
 }
