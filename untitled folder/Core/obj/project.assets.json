@@ -8,25 +8,31 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/rashad/.nuget/packages/": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/Core/NLayerApp.Core.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\NLayerApp.Core.csproj",
       "projectName": "NLayerApp.Core",
-      "projectPath": "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/Core/NLayerApp.Core.csproj",
-      "packagesPath": "/Users/rashad/.nuget/packages/",
-      "outputPath": "/Users/rashad/Desktop/NLayerAPI-Test/untitled folder/Core/obj/",
+      "projectPath": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\NLayerApp.Core.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/rashad/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -66,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

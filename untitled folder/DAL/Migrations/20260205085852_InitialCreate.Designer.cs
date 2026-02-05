@@ -11,7 +11,7 @@ using NLayerApp.DAL.Data;
 namespace NLayerApp.DAL.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260204093813_InitialCreate")]
+    [Migration("20260205085852_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -34,7 +34,8 @@ namespace NLayerApp.DAL.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.HasKey("Id");
 

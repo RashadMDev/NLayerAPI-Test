@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBC76B-E8C8-411B-9272-A2FD147C531A}|DAL\\NLayerApp.DAL.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\dal\\repositories\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBC76B-E8C8-411B-9272-A2FD147C531A}|DAL\\NLayerApp.DAL.csproj|solutionrelative:dal\\repositories\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13315D36-F21F-495C-9B9C-1A16365CD4AC}|Business\\NLayerApp.Business.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\business\\services\\category\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13315D36-F21F-495C-9B9C-1A16365CD4AC}|Business\\NLayerApp.Business.csproj|solutionrelative:business\\services\\category\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E1489E-0841-4D03-9E8F-60F0388E0C87}|Core\\NLayerApp.Core.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E1489E-0841-4D03-9E8F-60F0388E0C87}|Core\\NLayerApp.Core.csproj|solutionrelative:core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2812424E-85B1-4E42-80FA-AA3489C5A7DA}|API\\NLayerApp.API.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2812424E-85B1-4E42-80FA-AA3489C5A7DA}|API\\NLayerApp.API.csproj|solutionrelative:api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E1489E-0841-4D03-9E8F-60F0388E0C87}|Core\\NLayerApp.Core.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\core\\dtos\\categorydtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E1489E-0841-4D03-9E8F-60F0388E0C87}|Core\\NLayerApp.Core.csproj|solutionrelative:core\\dtos\\categorydtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2812424E-85B1-4E42-80FA-AA3489C5A7DA}|API\\NLayerApp.API.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2812424E-85B1-4E42-80FA-AA3489C5A7DA}|API\\NLayerApp.API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13315D36-F21F-495C-9B9C-1A16365CD4AC}|Business\\NLayerApp.Business.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\business\\nlayerapp.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13315D36-F21F-495C-9B9C-1A16365CD4AC}|Business\\NLayerApp.Business.csproj|solutionrelative:business\\nlayerapp.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2812424E-85B1-4E42-80FA-AA3489C5A7DA}|API\\NLayerApp.API.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\api\\nlayerapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2812424E-85B1-4E42-80FA-AA3489C5A7DA}|API\\NLayerApp.API.csproj|solutionrelative:api\\nlayerapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E1489E-0841-4D03-9E8F-60F0388E0C87}|Core\\NLayerApp.Core.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\core\\repositories\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E1489E-0841-4D03-9E8F-60F0388E0C87}|Core\\NLayerApp.Core.csproj|solutionrelative:core\\repositories\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13315D36-F21F-495C-9B9C-1A16365CD4AC}|Business\\NLayerApp.Business.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\business\\validators\\updatecategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13315D36-F21F-495C-9B9C-1A16365CD4AC}|Business\\NLayerApp.Business.csproj|solutionrelative:business\\validators\\updatecategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13315D36-F21F-495C-9B9C-1A16365CD4AC}|Business\\NLayerApp.Business.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\business\\validators\\createcategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13315D36-F21F-495C-9B9C-1A16365CD4AC}|Business\\NLayerApp.Business.csproj|solutionrelative:business\\validators\\createcategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E1489E-0841-4D03-9E8F-60F0388E0C87}|Core\\NLayerApp.Core.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\core\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E1489E-0841-4D03-9E8F-60F0388E0C87}|Core\\NLayerApp.Core.csproj|solutionrelative:core\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E1489E-0841-4D03-9E8F-60F0388E0C87}|Core\\NLayerApp.Core.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E1489E-0841-4D03-9E8F-60F0388E0C87}|Core\\NLayerApp.Core.csproj|solutionrelative:core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13315D36-F21F-495C-9B9C-1A16365CD4AC}|Business\\NLayerApp.Business.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\business\\mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13315D36-F21F-495C-9B9C-1A16365CD4AC}|Business\\NLayerApp.Business.csproj|solutionrelative:business\\mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBC76B-E8C8-411B-9272-A2FD147C531A}|DAL\\NLayerApp.DAL.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\dal\\data\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBC76B-E8C8-411B-9272-A2FD147C531A}|DAL\\NLayerApp.DAL.csproj|solutionrelative:dal\\data\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBC76B-E8C8-411B-9272-A2FD147C531A}|DAL\\NLayerApp.DAL.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBC76B-E8C8-411B-9272-A2FD147C531A}|DAL\\NLayerApp.DAL.csproj|solutionrelative:dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E1489E-0841-4D03-9E8F-60F0388E0C87}|Core\\NLayerApp.Core.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\core\\dtos\\categorydtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E1489E-0841-4D03-9E8F-60F0388E0C87}|Core\\NLayerApp.Core.csproj|solutionrelative:core\\dtos\\categorydtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E1489E-0841-4D03-9E8F-60F0388E0C87}|Core\\NLayerApp.Core.csproj|c:\\users\\user\\desktop\\nlayerapp\\untitled folder\\core\\dtos\\categorydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E1489E-0841-4D03-9E8F-60F0388E0C87}|Core\\NLayerApp.Core.csproj|solutionrelative:core\\dtos\\categorydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Business\\Services\\Category\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Category\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Business\\Services\\Category\\CategoryService.cs",
+              "RelativeToolTip": "Business\\Services\\Category\\CategoryService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:54:22.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\DAL\\Repositories\\EfRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\EfRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\DAL\\Repositories\\EfRepository.cs*",
+              "RelativeToolTip": "DAL\\Repositories\\EfRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:28:03.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T09:03:42.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\DTOs\\CategoryDTOs\\GetCategoryDto.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\CategoryDTOs\\GetCategoryDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\DTOs\\CategoryDTOs\\GetCategoryDto.cs",
+              "RelativeToolTip": "Core\\DTOs\\CategoryDTOs\\GetCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T11:23:00.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NLayerApp.Business",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Business\\NLayerApp.Business.csproj",
+              "RelativeDocumentMoniker": "Business\\NLayerApp.Business.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Business\\NLayerApp.Business.csproj",
+              "RelativeToolTip": "Business\\NLayerApp.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T11:20:22.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\Repositories\\Generic\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Repositories\\Generic\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\Repositories\\Generic\\IRepository.cs",
+              "RelativeToolTip": "Core\\Repositories\\Generic\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:18:27.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T09:10:23.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:58:23.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateCategoryDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Business\\Validators\\UpdateCategoryDtoValidator.cs",
+              "RelativeDocumentMoniker": "Business\\Validators\\UpdateCategoryDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Business\\Validators\\UpdateCategoryDtoValidator.cs",
+              "RelativeToolTip": "Business\\Validators\\UpdateCategoryDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:52:51.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateCategoryDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Business\\Validators\\CreateCategoryDtoValidator.cs",
+              "RelativeDocumentMoniker": "Business\\Validators\\CreateCategoryDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Business\\Validators\\CreateCategoryDtoValidator.cs",
+              "RelativeToolTip": "Business\\Validators\\CreateCategoryDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:50:12.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NLayerApp.API",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\API\\NLayerApp.API.csproj",
+              "RelativeDocumentMoniker": "API\\NLayerApp.API.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\API\\NLayerApp.API.csproj",
+              "RelativeToolTip": "API\\NLayerApp.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T08:41:30.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Core\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:24:55.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:58:48.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Business\\MappingProfile\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Business\\MappingProfile\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Business\\MappingProfile\\MappingProfile.cs",
+              "RelativeToolTip": "Business\\MappingProfile\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:45:25.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\DAL\\Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\DAL\\Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "DAL\\Data\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:26:56.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:26:53.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\DTOs\\CategoryDTOs\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\CategoryDTOs\\UpdateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\DTOs\\CategoryDTOs\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "Core\\DTOs\\CategoryDTOs\\UpdateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T11:20:36.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\DTOs\\CategoryDTOs\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\CategoryDTOs\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NLayerApp\\untitled folder\\Core\\DTOs\\CategoryDTOs\\CreateCategoryDto.cs",
+              "RelativeToolTip": "Core\\DTOs\\CategoryDTOs\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T11:19:51.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

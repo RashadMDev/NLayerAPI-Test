@@ -1,0 +1,36 @@
+﻿using NLayerApp.Core.DTOs.CategoryDTOs;
+using NLayerApp.Core.Entities;
+using NLayerApp.Core.Repositories.Generic;
+using NLayerApp.Core.Services;
+
+namespace NLayerApp.Business.Services.Category
+{
+    public class CategoryService : ICategoryService
+    {
+        private readonly IRepository<Category>  _repository;
+        public Task CreateAsync(CreateCategoryDto dto)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task DeleteAsync(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<List<GetCategoryDto>> GetAllAsync()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<GetCategoryDto?> GetByIdAsync(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task UpdateAsync(int id, UpdateCategoryDto dto)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
